@@ -15,7 +15,7 @@ QuizGame is an interactive quiz application developed in Unity. Players can test
 
 ### Prerequisites
 To run this project, you'll need the following software installed on your machine:
-- [Unity Hub](https://unity3d.com/get-unity/download) (version [insert version here])
+- [Unity Hub](https://unity3d.com/get-unity/download) (version 2022.3.46f1)
 - [Visual Studio Code](https://code.visualstudio.com/) (optional for code editing)
 - [Git](https://git-scm.com/) (for version control and cloning the repository)
 
@@ -33,9 +33,9 @@ To run this project, you'll need the following software installed on your machin
 
 ### Customization
 - You can add new questions by creating new `QuestionSO` ScriptableObject instances:
-  1. Right-click in the **Project** window.
-  2. Go to **Create** > **Scriptable Objects** > **QuestionSO**.
-  3. Fill in the question text, possible answers, and the index of the correct answer.
+1. Right-click in the **Project** window.
+2. Go to **Create** > **Scriptable Objects** > **QuestionSO**.
+3. Fill in the question text, possible answers, and the index of the correct answer.
 - Adjust game settings, such as timer duration and UI elements, within the Unity Editor.
 
 ## Contributing
