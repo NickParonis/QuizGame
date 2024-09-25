@@ -32,10 +32,12 @@ To run this project, you'll need the following software installed on your machin
 - The score will be displayed after each question, along with the correct answer.
 
 ### Customization
-- You can add new questions by creating new `QuestionSO` ScriptableObject instances:
+You can add new questions by creating new `QuestionSO` ScriptableObject instances:
+
 1. Right-click in the **Project** window.
 2. Go to **Create** > **Scriptable Objects** > **QuestionSO**.
 3. Fill in the question text, possible answers, and the index of the correct answer.
+
 - Adjust game settings, such as timer duration and UI elements, within the Unity Editor.
 
 ## Contributing
